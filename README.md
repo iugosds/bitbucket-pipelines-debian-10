@@ -14,7 +14,7 @@ Docker image at [smartapps/bitbucket-pipelines-debian-10](https://hub.docker.com
  - [Perl](https://www.perl.org/) 5.28
  - [Python](https://www.python.org/) 2.7 & 3.7
  - [MariaDB](https://mariadb.org/) 10.3 (user `root:root`)
- - [PHP](http://www.php.net/) 7.3 (default)
+ - [PHP](http://www.php.net/) 7.4 (default)
  - [Ruby](https://www.ruby-lang.org/) 2.5
  - [Node.js](https://nodejs.org/) 10.x LTS (you can use [`n`](https://github.com/tj/n) to interactively manage your Node.js versions)
  - Latest [Composer](https://getcomposer.org/), [Gulp](http://gulpjs.com/), [Webpack](https://webpack.github.io/), [Mocha](https://mochajs.org/), [Grunt](http://gruntjs.com/), [PHPUnit](https://phpunit.de/), [Codeception](https://codeception.com/), [Yarn](https://yarnpkg.com/), [n](https://github.com/tj/n), [Infection](https://infection.github.io/)
