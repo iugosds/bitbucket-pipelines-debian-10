@@ -1,6 +1,6 @@
 [![Travis Build Status](https://travis-ci.org/smartapps-fr/bitbucket-pipelines-debian-10.svg)](https://travis-ci.org/smartapps-fr/bitbucket-pipelines-debian-10) [![Microbadger badge](https://images.microbadger.com/badges/image/smartapps/bitbucket-pipelines-debian-10.svg)](https://microbadger.com/images/smartapps/bitbucket-pipelines-debian-10)
 
-# bitbucket-pipelines-debian-10(-php-mysql)
+# bitbucket-pipelines-debian-10-php-7-4(-php-mysql)
 
 [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) [Docker](https://www.docker.com/) image based on [Debian 10.0 _Buster_](https://www.debian.org/releases/stretch/) with [PHP](http://php.net/)/[MySQL](https://www.mysql.com) (and more !)
 
